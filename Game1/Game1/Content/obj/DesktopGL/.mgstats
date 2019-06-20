@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/Lucas/source/repos/Game1/Game1/Content/eu.jpg","C:/Users/Lucas/source/repos/Game1/Game1/Content/bin/DesktopGL/eu.xnb","TextureProcessor","Texture2DContent",46762,1115221,0,3312452
+"C:/Users/Lucas/source/repos/Game1/Game1/Content/font.spritefont","C:/Users/Lucas/source/repos/Game1/Game1/Content/bin/DesktopGL/font.xnb","FontDescriptionProcessor","SpriteFontContent",2008,21521,0,2422
+"C:/Users/Lucas/source/repos/Game1/Game1/Content/mario.png","C:/Users/Lucas/source/repos/Game1/Game1/Content/bin/DesktopGL/mario.xnb","TextureProcessor","Texture2DContent",205072,1537285,0,0700087
+"C:/Users/Lucas/source/repos/Game1/Game1/Content/tile.png","C:/Users/Lucas/source/repos/Game1/Game1/Content/bin/DesktopGL/tile.xnb","TextureProcessor","Texture2DContent",3464,5981,0,0119928
